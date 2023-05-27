@@ -1,4 +1,6 @@
 # jdavecas.github.io
 Personal website 2.0
 
-I am J. Daniel Velez, Ph.D. student in the Global Hydrology Lab at The University of North Carolina at Chapel Hill
+![](images/avat.jpg)
+
+I am J. Daniel Velez, Ph.D. student in the [Global Hydrology Lab](https://uncglobalhydrology.org/) at the [Earth Marine and Environmental Sciences (EMES)](https://emes.unc.edu/) in [The University of North Carolina at Chapel Hill](https://www.unc.edu/)
