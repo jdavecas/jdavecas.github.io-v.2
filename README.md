@@ -1,4 +1,4 @@
-# jdavecas.github.io
+# J. Daniel Vélez C.
 Personal website 2.0
 
 ![](images/avat.jpg)
